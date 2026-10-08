@@ -36,13 +36,13 @@ The project demonstrates:
 
 [View Merchant Pulse Android](https://github.com/Shivani18012000/merchant-pulse-android)
 
-## Next portfolio project
+## Additional Android project
 
 ### Field Ops Android
 
 An enterprise-style work-order application demonstrating Kotlin and Java interoperability, XML layouts, Fragments, ViewModel, LiveData, Room, Retrofit, WorkManager, RecyclerView, and legacy XML parsing.
 
-The repository will be linked here after publication.
+[View Field Ops Android](https://github.com/Shivani18012000/field-ops-android)
 
 ## Engineering approach
 
