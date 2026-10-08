@@ -57,3 +57,5 @@ I value maintainable architecture, clear data flow, practical testing, and thoug
 - Testable Kotlin and Java codebases
 
 > The portfolio repositories on this profile are original demonstration applications built with synthetic data. They do not contain proprietary employer or client code.
+
+<!-- GitHub profile README refresh: 2026-10-08 -->
